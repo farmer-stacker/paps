@@ -1,2 +1,2 @@
 # proyecto pesado
-zxxx
+project that seeks to be at the forefront of technology
